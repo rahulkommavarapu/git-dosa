@@ -6,3 +6,4 @@
 * Heat well 
 * Cook well
 * Repeat this Process again
+* all set up done from my side
