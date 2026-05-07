@@ -3,3 +3,4 @@
 ## Plain dosa
 * Dosa batter
 * Light Oil
+* Heat well 
