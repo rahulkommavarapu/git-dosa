@@ -4,3 +4,4 @@
 * Dosa batter
 * Light Oil
 * Heat well 
+* Cook well
