@@ -11,4 +11,7 @@
 * Cook well
 * Repeat this Process again
 * all set up done from my side
->>>>>>> 26b3146f43be3b8402ccf303fe36d1d30b6a33de
+========
+## karam-dosa
+* dosa batter
+
